@@ -1,0 +1,34 @@
+.headerText {
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: normal;
+    text-align: center;
+}
+
+.mainDiv{
+    background-color:brown;
+    border-radius: 10px;
+}
+
+.hotWeater{
+    background-color:#FF4500;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.normalWeather{
+    background-color:#00FF7F;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.coldWeather{
+    background-color:#0000FF;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.paddingleft {
+    padding-left: 10px;
+}
